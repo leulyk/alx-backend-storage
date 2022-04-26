@@ -1,2 +1,2 @@
-// insert data into database
-db.my_db.insert({"name": "Holberton school"})
+// insert data into a collection in database
+db.school.insert({"name": "Holberton school"})
